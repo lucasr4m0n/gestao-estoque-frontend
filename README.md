@@ -2,7 +2,7 @@
 
 > Projeto acadêmico. Este repositório contém **apenas o frontend**. A API está em [gestao-estoque-backend](https://github.com/lucasr4m0n/gestao-estoque-backend).
 
-**Aplicação em produção:** TODO: cole aqui o link da Vercel
+**Aplicação em produção:** https://gestao-estoque-frontend-95r8.vercel.app
 **API em produção:** https://gestao-estoque-api-hmee.onrender.com/swagger-ui.html
 
 > A API roda no plano gratuito do Render e "dorme" quando fica sem uso: o primeiro login pode levar cerca de 1 minuto.
