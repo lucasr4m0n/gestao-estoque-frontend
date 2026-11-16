@@ -1,6 +1,6 @@
 import { TOKEN_KEY, USER_KEY } from './storageKeys.js';
+import { API_URL } from './env.js';
 
-const API_URL = 'http://localhost:8090/api';
 
 export async function login(email, senha) {
   try {
